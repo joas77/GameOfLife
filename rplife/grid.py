@@ -1,5 +1,5 @@
 import collections
-import patterns
+# import patterns # uncomment for testing
 
 ALIVE = "♥"
 DEAD = "."
