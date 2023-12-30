@@ -13,7 +13,7 @@ def main():
     else:
         _show_pattern(
             View,
-            pattern.get_pattern(name=args.pattern),
+            patterns.get_pattern(name=args.pattern),
             args
         )
 
